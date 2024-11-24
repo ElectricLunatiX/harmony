@@ -1,23 +1,7 @@
-.container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 100vh;
-    max-width: 100%;
-    padding: 10px;
+div {
+    text-align: center;
 }
-
-button {
-    height: 50px;
-    width: 100px;
-    border: solid skyblue 1px;
-    border-radius: 10px 0 10px 0;
-}
-
-button:hover {
-    background-color: aquamarine;
-}
-
+    
 .pony-images {
     text-align: center;
 }
