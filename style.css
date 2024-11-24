@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 100vh;
+    padding: 10px;
+}
+
+.left-column, .right-column {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.right-column {
+    align-items: flex-end;
+}
+
+button {
+    height: 50px;
+    width: 100px;
+    border: solid skyblue 1px;
+    border-radius: 10px 0 10px 0;
+}
+
+button:hover {
+    background-color: aquamarine;
+}
+
+.pony-images {
+    text-align: center;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    border: solid skyblue 1px;
+    border-radius: 20px 0 20px 0;
+}
+
+#pony-description {
+    width: 70vh;
+    background-color: aquamarine;
+}
