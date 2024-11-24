@@ -8,3 +8,12 @@ img {
     border: solid skyblue 1px;
     border-radius: 20px 0 20px 0;
 }
+
+#description-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 100vh;
+    max-width: 100%;
+    padding: 10px;
+}
