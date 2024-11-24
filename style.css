@@ -7,16 +7,6 @@
     padding: 10px;
 }
 
-.left-column, .right-column {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-}
-
-.right-column {
-    align-items: flex-end;
-}
-
 button {
     height: 50px;
     width: 100px;
