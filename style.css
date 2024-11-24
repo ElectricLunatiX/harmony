@@ -8,9 +8,3 @@ img {
     border: solid skyblue 1px;
     border-radius: 20px 0 20px 0;
 }
-
-#pony-description {
-    width: 70vh;
-    background-color: aquamarine;
-    text-align: center;
-}
